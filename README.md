@@ -1,5 +1,5 @@
 # yopthon
-Yopthon is a programming language with similar to Basic syntax, but almost all function names replaced with Russian swear words.
+Yopthon is a programming language with similar to Basic syntax, but almost all function names are replaced with Russian swear words.
 To launch the language you want to place Yopthon.py & shell.py in the same folder and run shell.py
 
 here are the function names:
